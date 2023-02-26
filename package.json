@@ -1,0 +1,24 @@
+{
+  "name": "games-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subodh712/games-backend.git"
+  },
+  "author": "Subodh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subodh712/games-backend/issues"
+  },
+  "homepage": "https://github.com/subodh712/games-backend#readme",
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "ws": "^8.12.1"
+  }
+}
